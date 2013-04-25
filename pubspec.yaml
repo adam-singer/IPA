@@ -1,5 +1,5 @@
 name: ipa
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/JosephMoniz/ipa
 description: >
   A Dart web framework with taste
@@ -10,3 +10,5 @@ dependencies:
   dictionary:      '>=0.2.0 <0.3.0'
   http_router:     '>=0.2.0 <0.3.0'
   service_manager: '>=0.1.0 <0.2.0'
+dev_dependencies:
+  json_config:     '>=0.1.0 < 0.2.0'

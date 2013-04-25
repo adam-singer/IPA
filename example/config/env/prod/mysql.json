@@ -1,0 +1,7 @@
+{
+    "mysql": {
+        "user":     "sql_user",
+        "password": "sql_password_dev",
+        "host:":    "mysql001-dev"
+    }
+}
